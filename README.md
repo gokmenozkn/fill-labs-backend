@@ -8,8 +8,8 @@ Clone the project to your machine and ensure that Go is installed.
 
 1. Clone the Repository:
 ```bash
-git clone https://github.com/username/application-name.git
-cd application-name
+git clone https://github.com/gokmenozkn/fill-labs-backend.git
+cd fill-labs-backend
 ```
 
 2. Run the Application:
